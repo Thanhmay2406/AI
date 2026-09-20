@@ -18,11 +18,16 @@ Learn code AI model
 Roadmap
 =======
 
-* Basic: Linear Regression, Linear Classifier, SVM, Softmax, Perceptron, MLP
-* CNN: LeNet-5, AlexNet, VGG, GoogLeNet, ResNet
-* Object Detection: R-CNN, Fast R-CNN, Faster R-CNN, YOLO v1/v2/v3, SSD, FPN, Mask R-CNN
-* Segmentation: FCN, U-Net, U-Net++, Stacked U-Net, CUNet
-* Sequence Models: RNN, Bi-RNN, LSTM, GRU, Character-RNN
-* Sequence-to-Sequence: Encoder–Decoder / Seq2Seq, NMT, Attention
-* NLP: Word2Vec Skip-gram, CBOW, GloVe, BERT, XLNet
-* Generative Models: Autoencoder, VAE, GAN, Conditional GAN, CycleGAN, Progressive GAN, Style-based Generator
+1. ResNet
+2. U-Net
+3. ConvNeXt
+4. Transformer
+5. Vision Transformer
+6. Faster R-CNN / YOLO-like detector
+7. DETR
+8. MAE / DINO-style SSL
+9. VAE
+10. DDPM
+11. Mini-GPT
+12. CLIP
+13. Paper reproduction
